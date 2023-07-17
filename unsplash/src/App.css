@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.images{
+column-count: 3;
+}
+
+.anyImage {
+  column-gap: 30px;
+  height: 200px;
+  width: 350px;
+  border: 5px solid #d4d4d4;
+  border-radius: 10px;
+}   
