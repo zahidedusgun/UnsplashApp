@@ -4,4 +4,4 @@
 
 
 # RequestToApi
-This reaction app pulls photos from Unsplash that match the input word.
+This react app pulls photos from Unsplash that match the input word.
